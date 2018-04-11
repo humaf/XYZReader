@@ -1,4 +1,4 @@
-#Tue Apr 03 18:50:53 PDT 2018
-base.0=/home/redrose/Giit/MaterialDesign/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Tue Apr 10 22:02:12 PDT 2018
+base.0=/home/redrose/GitHub/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/home/redrose/Giit/MaterialDesign/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/home/redrose/GitHub/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

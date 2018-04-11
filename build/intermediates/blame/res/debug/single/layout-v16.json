@@ -2,5 +2,9 @@
     {
         "merged": "/home/redrose/Giit/MaterialDesign/XYZReader/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
         "source": "/home/redrose/.android/build-cache/4e3e2c59bb1fe58bfefdc01db7713a7df032abd8/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/redrose/GitHub/XYZReader/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout-v16/notification_template_custom_big.xml"
     }
 ]

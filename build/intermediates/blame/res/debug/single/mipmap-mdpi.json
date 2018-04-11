@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/redrose/GitHub/XYZReader/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/redrose/GitHub/XYZReader/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/redrose/Giit/MaterialDesign/XYZReader/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/home/redrose/Giit/MaterialDesign/XYZReader/src/main/res/mipmap-mdpi/ic_launcher.png"
     }

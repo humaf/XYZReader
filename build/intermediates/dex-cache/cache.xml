@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_40eb69cc38c1d4c67fd3b0d42681801e0d76d883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_6fb151a0201dcf197079d38691e4a14707f7a728.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d141abd4df7f87a209a319aa97f4c38b4765cba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_4fa668e26d5baef2f1e913192c1467bf733a8bfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_dc17663910f8f1af936456df0661640bfdc7acdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v13-25.0.0_33da98750a8ef5db8aa87d2b22a4522f0cf87b6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_65d85173f4d7b6ebb513ec54c364c56af5f97734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_81dea26cbad05c35a1281532379ef50501e39397.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_2252216b68177fbdf11224a20c46066ef44ffcf7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_e3efd221d7ed3fde246a491f35b18e1449ed149b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/okio-1.6.0_17b7db52cfbbaecd330fd3b0f21fc4917bf0c8cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/libs/volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/volley_a3445d745a234aeb818ce66ec2308befb6549f27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3ba61bee26a9c91806aabac83f72c97a1d37dda2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a47f36c02ad23f364e6f66b234ee9651ebd42ea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_6acf8983e716f07769e2cc02e86eb6fcc9293787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_75d5134505424cc44d5cea463f5624253090944f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/okhttp-3.1.2_ac815e91f595c5bc14b7a6c59d6dced479a041b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_2c9b914cf80ed15e5ce805fe8e1503894a4750f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_50237bc7b17a530e3868f5dec2379a9d6020885a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_936c3e35d914bb82c991aa5d3e496e28d48a0722.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_9835eee344de8897ce32e006d097f82fea1a647a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a92eb9f41b118ff5752f1e5a62943eb31dc0271d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="672cceae26e9a8fcbd8e0eefe5fc351c50d2488a">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.0.0_fb244b80acc8e4245e048c20a441e87bd7274fb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_2c4baa696097857e90aae645f49f1c946ee3670e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/redrose/GitHub/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/redrose/GitHub/XYZReader/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_2b74436b8b36855426e23c14313d26113f60b558.jar" />
+    </item>
+
+</items>
