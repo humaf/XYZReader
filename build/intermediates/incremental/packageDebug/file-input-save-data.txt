@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Apr 10 22:02:12 PDT 2018
+#Tue Apr 10 23:07:24 PDT 2018
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/home/redrose/GitHub/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout-v21/activity_article_list.xml
