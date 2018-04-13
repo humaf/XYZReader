@@ -468,6 +468,7 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="app_bar_layout_size">360dp</dimen>
     <dimen name="card_padding">8dp</dimen>
     <dimen name="card_view_margin">8dp</dimen>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
@@ -522,7 +523,9 @@
     <dimen name="detail_title_text_size">32sp</dimen>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <dimen name="fab_elevation">2dp</dimen>
+    <dimen name="expanded_title_margin_end">64dp</dimen>
+    <dimen name="expanded_title_margin_start">48dp</dimen>
+    <dimen name="fab_elevation">8dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
     <dimen name="fab_padding">16dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
@@ -615,6 +618,7 @@
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
+    <string name="error_message">Erreur Inconnue</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="up">Up</string>

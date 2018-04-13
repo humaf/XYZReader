@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Apr 10 23:07:24 PDT 2018
+#Fri Apr 13 08:23:31 PDT 2018
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/home/redrose/GitHub/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout-v21/activity_article_list.xml
@@ -88,7 +88,7 @@
 187.base=/home/redrose/GitHub/XYZReader/build/intermediates/res/resources-debug.ap_
 110.base=/home/redrose/GitHub/XYZReader/build/intermediates/res/resources-debug.ap_
 162.base=/home/redrose/GitHub/XYZReader/build/intermediates/res/resources-debug.ap_
-193.file=/home/redrose/GitHub/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout-v21/fragment_article_detail.xml
+193.file=/home/redrose/GitHub/XYZReader/build/intermediates/res/resources-debug.ap_/res/color/switch_thumb_material_dark.xml
 142.set=ANDROID_RESOURCE
 248.set=ANDROID_RESOURCE
 189.set=ANDROID_RESOURCE
@@ -155,7 +155,7 @@
 240.base=/home/redrose/GitHub/XYZReader/build/intermediates/res/resources-debug.ap_
 163.base=/home/redrose/GitHub/XYZReader/build/intermediates/res/resources-debug.ap_
 106.set=ANDROID_RESOURCE
-194.file=/home/redrose/GitHub/XYZReader/build/intermediates/res/resources-debug.ap_/res/color/switch_thumb_material_dark.xml
+194.file=/home/redrose/GitHub/XYZReader/build/intermediates/res/resources-debug.ap_/res/layout-v21/fragment_article_detail.xml
 190.base=/home/redrose/GitHub/XYZReader/build/intermediates/res/resources-debug.ap_
 152.set=ANDROID_RESOURCE
 199.set=ANDROID_RESOURCE
